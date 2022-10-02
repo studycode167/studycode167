@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yungi Yang
+# Hi there 👋, my name is Yungi Yang
 
 In the Disney movie Rapunzel, there's a saying, "Venture outside your comfort zone."
 Just like that, I love adventure and new things.
