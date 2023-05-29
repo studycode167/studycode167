@@ -9,3 +9,4 @@
 
 ## 📌 Languages
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
